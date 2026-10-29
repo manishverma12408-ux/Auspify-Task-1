@@ -1,16 +1,17 @@
 # Auspify – Company Landing Page
 
 ## About the Project
-Auspify is a simple and attractive company landing page created using HTML, CSS, and JavaScript. The main purpose of this project is to show company information, highlight its features, and make it easy for visitors to explore the website.
+Auspify is a company landing page that I created using HTML, CSS, and JavaScript. The website is designed to look simple and attractive, so visitors can easily learn about the company and explore its different sections.
 
 ## Features
-- Clean and attractive website design
+- Simple and clean design
 - Home, About, Features, and Contact sections
-- Responsive layout for different screen sizes
-- Interactive navigation menu
+- Navigation menu for easy browsing
+- JavaScript functionality for menu and button clicks
 - Smooth scrolling to the Contact section
-- Simple and user-friendly interface
+- Responsive design for different screen sizes
 
 ## Technologies Used
-- HTML – To create the structure of the website
-- CSS – To design
+- **HTML:** To build the basic structure of the website.
+- **CSS:** To make the website look attractive.
+- **JavaScript:** To add interactive
